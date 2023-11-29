@@ -8,12 +8,14 @@
 
 # How do I use this?
 
-### Have the internal folder and the ItemReplace.exe in the same folder as the sales file you want to modify
+### Have the ItemReplace.exe in the same folder as the sales file you want to modify
 ### open the exe and the window will prompt for the old and new code, enter the full 5 digit code. the program will run and close automatically. At this point the modification has been completed.
 
 # Known issues
 
 ### due to how this programs gathers the .TXT file having multiple files with the .TXT extension in the same directory will likely cause issues
 
+# Changes
+### reformatted executable to be a standalone exe not requiring another directory to be present 11/29/23
 
 #### R Worsham 11/13/23
